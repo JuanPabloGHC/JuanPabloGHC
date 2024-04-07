@@ -16,7 +16,7 @@ Hello! I'm Juan Pablo, a Computer Systems Engineering student passionate about g
 - 🚀 Experience in Unity.
 - 👩‍💻 Programming skills:
   - Languages:
-    - C#, C++, C, Python, JavaScript, TypeScript, Java, SQL, MongoDB.
+    - C#, C++, C, Python, JavaScript, TypeScript, Java, SQL, NoSQL.
   - Frameworks:
     - React, NetMaui, Flask, Django.
   - Libraries
