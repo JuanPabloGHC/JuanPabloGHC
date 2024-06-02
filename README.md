@@ -6,7 +6,7 @@ Hello! I'm Juan Pablo, a Computer Systems Engineering student passionate about g
 
 ### About Me
 
-- 🎓 Computer Systems Engineering.
+- 🎓 Computer Systems Engineer.
 - 💻 Enthusiastic about software development and creating interactive experiences.
 - 🧠 Fascinated by the logic driving software creation.
 - 🌐 Open to learning and adapting to new technologies and challenges.
