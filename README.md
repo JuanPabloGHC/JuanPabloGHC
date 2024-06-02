@@ -6,7 +6,7 @@ Hello! I'm Juan Pablo, a Computer Systems Engineering student passionate about g
 
 ### About Me
 
-- 🎓 Computer Systems Engineering student.
+- 🎓 Computer Systems Engineering.
 - 💻 Enthusiastic about software development and creating interactive experiences.
 - 🧠 Fascinated by the logic driving software creation.
 - 🌐 Open to learning and adapting to new technologies and challenges.
@@ -16,11 +16,11 @@ Hello! I'm Juan Pablo, a Computer Systems Engineering student passionate about g
 - 🚀 Experience in Unity.
 - 👩‍💻 Programming skills:
   - Languages:
-    - C#, C++, C, Python, JavaScript, TypeScript, Java, SQL, NoSQL.
+    - C#, C++, C, Python, TypeScript, Java, SQL, NoSQL.
   - Frameworks:
-    - React, NetMaui, Flask, Django.
+    - React, Angular, Ionic, NetMaui, Flask, Django.
   - Libraries
-    - Pandas, Numpy, Tensorflow, Axios, Matplotlib, Opencv, 
+    - Pandas, Numpy, Tensorflow, Axios, Matplotlib, Opencv.
 - 🤝 Strong team player and adaptability to different environments.
 - 🎯 Disciplined and persistent approach to overcoming challenges.
 
