@@ -19,8 +19,14 @@ Hello! I'm Juan Pablo, a Computer Systems Engineering student passionate about g
     - C#, C++, C, Python, TypeScript, Java, SQL, NoSQL.
   - Frameworks:
     - React, Angular, Ionic, NetMaui, Flask, Django.
-  - Libraries
+  - Libraries:
     - Pandas, Numpy, Tensorflow, Axios, Matplotlib, Opencv.
+  - SQL:
+    - MySQL, Postgres, SQL Server.
+  - NoSQL:
+    - MongoDB.
+  - ORMs:
+    - Entity Framework, SQLAlchemy.
 - 🤝 Strong team player and adaptability to different environments.
 - 🎯 Disciplined and persistent approach to overcoming challenges.
 
