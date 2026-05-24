@@ -1,8 +1,8 @@
 <h1 align="center">Juan Pablo Gómez Haro Cabrerea</h1>
 
-## Computer Systems Engineering Student | Game Developer | Front-end Developer | Back-end Developer
+## Computer Systems Engineer | Game Developer | Front-end Developer | Back-end Developer
 
-Hello! I'm Juan Pablo, a Computer Systems Engineering student passionate about game, frontend, backend development and machine learning. Below, you'll find a brief overview of who I am and what I bring to the table:
+Hello! I'm Juan Pablo, a Computer Systems Engineer passionate about game, frontend, backend development and machine learning. Below, you'll find a brief overview of who I am and what I bring to the table:
 
 ### About Me
 
