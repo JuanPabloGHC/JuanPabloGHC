@@ -1,4 +1,4 @@
-<h1 align="center">Juan Pablo Gómez Haro Cabrerea</h1>
+<h1 align="center">Juan Pablo Gómez Haro Cabrera</h1>
 
 ## Computer Systems Engineer | Game Developer | Front-end Developer | Back-end Developer
 
@@ -22,11 +22,13 @@ Hello! I'm Juan Pablo, a Computer Systems Engineer passionate about game, fronte
   - Libraries:
     - Pandas, Numpy, Tensorflow, Axios, Matplotlib, Opencv.
   - SQL:
-    - MySQL, Postgres, SQL Server.
+    - MySQL, PostgreSQL, SQL Server.
   - NoSQL:
     - MongoDB.
   - ORMs:
     - Entity Framework, SQLAlchemy.
+  - Mobile:
+    - React Native
 - 🤝 Strong team player and adaptability to different environments.
 - 🎯 Disciplined and persistent approach to overcoming challenges.
 
@@ -40,5 +42,8 @@ Hello! I'm Juan Pablo, a Computer Systems Engineer passionate about game, fronte
 
 - 📧 Email: jpghc552@hotmail.com
 - 🔗 LinkedIn: https://www.linkedin.com/in/juanpablog%C3%B3mezharocabrera/
+- <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/016aae1e-c26c-400a-9254-7b55809e7b88" /> Portfolio: https://juanpablo-portfolio.vercel.app/
+
+
 
 Thank you for visiting my profile! I'm excited about the opportunity to contribute and learn in the world of software and game development.
